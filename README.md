@@ -4,6 +4,6 @@
 
 **Developed and updated by LegendMind**
 
-*You would need to obtain Noman.*
+*You would need to obtain Noman.css from **legendsol.com@gmail.com** to use this project scafolding*
 
 
