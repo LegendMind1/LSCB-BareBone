@@ -4,4 +4,6 @@
 
 **Developed and updated by LegendMind**
 
+*You would need to obtain Noman.*
+
 
